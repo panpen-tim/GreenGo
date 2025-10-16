@@ -10,7 +10,7 @@
 
 - **🤖 Neural Architecture**: ResNet-based with squeeze-excitation & multi-scale value heads  
 - **🌱 Green Computing**: Energy & CO2 tracking (0.008 kWh for 3 professional games)  
-- **🏆 Professional Benchmarking**: Full GTP implementation against KataGo 9x9  
+- **:mechanical_leg: Professional Benchmarking**: Full GTP implementation against KataGo 9x9  
 - **🔬 Research Rigor**: Systematic architecture search & ensemble optimization  
 
 ## 📊 Key Results
@@ -79,6 +79,28 @@ GreenGo/
 └── requirements.txt
 ```
 
+## Training Your Own Models :nail_care:
+
+### Quick Training
+
+```python
+# Train from scratch
+python deep_rl_training.py
+
+# Optimize hyperparameters  
+python hyperparameter_optimizer.py
+```
+
+### Pre-trained Models
+
+Due to file size limitations, pre-trained models are not included in this repository. However, the training scripts above can reproduce my best-performing models: 
+
+- Green RL Final: 58.3% win rate (`python deep_rl_training.py`) 
+- Optimized Ensemble: 50.0% win rate (`python ensemble_optimizer.py`)  
+- Aggressive Trained: 37.5% win rate (baseline)  
+
+All models can be trained in under 2 hours on consumer hardware.
+
 ## 🔬 Technical Innovations
 
 ### 1. Green Computing Focus
@@ -129,15 +151,15 @@ co2_g = energy_kwh * 400
 | Training (Breakthrough) | 0.101 kWh | 40.5g |
 | Benchmarking (3 games) | 0.008 kWh | 3.3g |
 | Total Project | 0.109 kWh | 43.8g |
-> Equivalent to charging a smartphone 3 times ⚡
+> Equivalent to charging a smartphone 3 times :battery:
 
 ## 🎯 Employment Value Proposition
 
 This project demonstrates:  
 
 - 🔧 Full-Stack ML: From neural architecture to production benchmarking  
-- 🌍 Green Leadership: Environmentally conscious AI development  
-- 📊 Professional Standards: Honest benchmarking against world-class systems  
+- 🌍 Green Citizenship: Environmentally conscious AI development  
+- :lab_coat: Professional Standards: Honest benchmarking against world-class systems  
 - 🚀 Engineering Rigor: Robust implementation with proper protocols  
 
 ## 🤝 Contributing
