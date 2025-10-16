@@ -1,0 +1,18 @@
+{
+  "12": {
+    "win_rate": 0.6,
+    "training_time_hours": 0.6423626921574275,
+    "energy_kwh": 0,
+    "parameters": 2200674,
+    "co2_g": 0,
+    "efficiency": 0
+  },
+  "16": {
+    "win_rate": 0.5,
+    "training_time_hours": 0.9024272196160422,
+    "energy_kwh": 0,
+    "parameters": 2870778,
+    "co2_g": 0,
+    "efficiency": 0
+  }
+}
