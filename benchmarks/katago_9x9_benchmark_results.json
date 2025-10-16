@@ -1,0 +1,2233 @@
+{
+  "timestamp": "2025-10-16 02:51:30",
+  "opponent": "KataGo_9x9_b18c384nbt",
+  "win_rate": 0.0,
+  "elo_difference": -800.0,
+  "successful_games": 3,
+  "wins": 0,
+  "losses": 3,
+  "green_metrics": {
+    "total_energy_kwh": 0.008152808169523875,
+    "co2_emissions_g": 3.26112326780955,
+    "games_played": 3
+  },
+  "game_details": [
+    {
+      "game_number": 0,
+      "winner": "white",
+      "moves": 81,
+      "duration": 63.851600646972656,
+      "our_color": "black",
+      "final_score": -87.5,
+      "history": [
+        {
+          "move": 1,
+          "player": "black",
+          "move_gtp": "C9",
+          "move_internal": [
+            0,
+            2
+          ]
+        },
+        {
+          "move": 2,
+          "player": "white",
+          "move_gtp": "E4",
+          "move_internal": [
+            5,
+            4
+          ]
+        },
+        {
+          "move": 3,
+          "player": "black",
+          "move_gtp": "G1",
+          "move_internal": [
+            8,
+            6
+          ]
+        },
+        {
+          "move": 4,
+          "player": "white",
+          "move_gtp": "G5",
+          "move_internal": [
+            4,
+            6
+          ]
+        },
+        {
+          "move": 5,
+          "player": "black",
+          "move_gtp": "G3",
+          "move_internal": [
+            6,
+            6
+          ]
+        },
+        {
+          "move": 6,
+          "player": "white",
+          "move_gtp": "D7",
+          "move_internal": [
+            2,
+            3
+          ]
+        },
+        {
+          "move": 7,
+          "player": "black",
+          "move_gtp": "E5",
+          "move_internal": [
+            4,
+            4
+          ]
+        },
+        {
+          "move": 8,
+          "player": "white",
+          "move_gtp": "D5",
+          "move_internal": [
+            4,
+            3
+          ]
+        },
+        {
+          "move": 9,
+          "player": "black",
+          "move_gtp": "D8",
+          "move_internal": [
+            1,
+            3
+          ]
+        },
+        {
+          "move": 10,
+          "player": "white",
+          "move_gtp": "C7",
+          "move_internal": [
+            2,
+            2
+          ]
+        },
+        {
+          "move": 11,
+          "player": "black",
+          "move_gtp": "G2",
+          "move_internal": [
+            7,
+            6
+          ]
+        },
+        {
+          "move": 12,
+          "player": "white",
+          "move_gtp": "D3",
+          "move_internal": [
+            6,
+            3
+          ]
+        },
+        {
+          "move": 13,
+          "player": "black",
+          "move_gtp": "B6",
+          "move_internal": [
+            3,
+            1
+          ]
+        },
+        {
+          "move": 14,
+          "player": "white",
+          "move_gtp": "E8",
+          "move_internal": [
+            1,
+            4
+          ]
+        },
+        {
+          "move": 15,
+          "player": "black",
+          "move_gtp": "A2",
+          "move_internal": [
+            7,
+            0
+          ]
+        },
+        {
+          "move": 16,
+          "player": "white",
+          "move_gtp": "C2",
+          "move_internal": [
+            7,
+            2
+          ]
+        },
+        {
+          "move": 17,
+          "player": "black",
+          "move_gtp": "F8",
+          "move_internal": [
+            1,
+            5
+          ]
+        },
+        {
+          "move": 18,
+          "player": "white",
+          "move_gtp": "E7",
+          "move_internal": [
+            2,
+            4
+          ]
+        },
+        {
+          "move": 19,
+          "player": "black",
+          "move_gtp": "H2",
+          "move_internal": [
+            7,
+            7
+          ]
+        },
+        {
+          "move": 20,
+          "player": "white",
+          "move_gtp": "H4",
+          "move_internal": [
+            5,
+            7
+          ]
+        },
+        {
+          "move": 21,
+          "player": "black",
+          "move_gtp": "B5",
+          "move_internal": [
+            4,
+            1
+          ]
+        },
+        {
+          "move": 22,
+          "player": "white",
+          "move_gtp": "E2",
+          "move_internal": [
+            7,
+            4
+          ]
+        },
+        {
+          "move": 23,
+          "player": "black",
+          "move_gtp": "A8",
+          "move_internal": [
+            1,
+            0
+          ]
+        },
+        {
+          "move": 24,
+          "player": "white",
+          "move_gtp": "B7",
+          "move_internal": [
+            2,
+            1
+          ]
+        },
+        {
+          "move": 25,
+          "player": "black",
+          "move_gtp": "H7",
+          "move_internal": [
+            2,
+            7
+          ]
+        },
+        {
+          "move": 26,
+          "player": "white",
+          "move_gtp": "H6",
+          "move_internal": [
+            3,
+            7
+          ]
+        },
+        {
+          "move": 27,
+          "player": "black",
+          "move_gtp": "H8",
+          "move_internal": [
+            1,
+            7
+          ]
+        },
+        {
+          "move": 28,
+          "player": "white",
+          "move_gtp": "F9",
+          "move_internal": [
+            0,
+            5
+          ]
+        },
+        {
+          "move": 29,
+          "player": "black",
+          "move_gtp": "G9",
+          "move_internal": [
+            0,
+            6
+          ]
+        },
+        {
+          "move": 30,
+          "player": "white",
+          "move_gtp": "G7",
+          "move_internal": [
+            2,
+            6
+          ]
+        },
+        {
+          "move": 31,
+          "player": "black",
+          "move_gtp": "E9",
+          "move_internal": [
+            0,
+            4
+          ]
+        },
+        {
+          "move": 32,
+          "player": "white",
+          "move_gtp": "C8",
+          "move_internal": [
+            1,
+            2
+          ]
+        },
+        {
+          "move": 33,
+          "player": "black",
+          "move_gtp": "J1",
+          "move_internal": [
+            8,
+            8
+          ]
+        },
+        {
+          "move": 34,
+          "player": "white",
+          "move_gtp": "H3",
+          "move_internal": [
+            6,
+            7
+          ]
+        },
+        {
+          "move": 35,
+          "player": "black",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        },
+        {
+          "move": 36,
+          "player": "white",
+          "move_gtp": "D1",
+          "move_internal": [
+            8,
+            3
+          ]
+        },
+        {
+          "move": 37,
+          "player": "black",
+          "move_gtp": "F6",
+          "move_internal": [
+            3,
+            5
+          ]
+        },
+        {
+          "move": 38,
+          "player": "white",
+          "move_gtp": "F7",
+          "move_internal": [
+            2,
+            5
+          ]
+        },
+        {
+          "move": 39,
+          "player": "black",
+          "move_gtp": "J9",
+          "move_internal": [
+            0,
+            8
+          ]
+        },
+        {
+          "move": 40,
+          "player": "white",
+          "move_gtp": "G8",
+          "move_internal": [
+            1,
+            6
+          ]
+        },
+        {
+          "move": 41,
+          "player": "black",
+          "move_gtp": "J3",
+          "move_internal": [
+            6,
+            8
+          ]
+        },
+        {
+          "move": 42,
+          "player": "white",
+          "move_gtp": "B2",
+          "move_internal": [
+            7,
+            1
+          ]
+        },
+        {
+          "move": 43,
+          "player": "black",
+          "move_gtp": "C3",
+          "move_internal": [
+            6,
+            2
+          ]
+        },
+        {
+          "move": 44,
+          "player": "white",
+          "move_gtp": "D9",
+          "move_internal": [
+            0,
+            3
+          ]
+        },
+        {
+          "move": 45,
+          "player": "black",
+          "move_gtp": "C4",
+          "move_internal": [
+            5,
+            2
+          ]
+        },
+        {
+          "move": 46,
+          "player": "white",
+          "move_gtp": "F9",
+          "move_internal": [
+            0,
+            5
+          ]
+        },
+        {
+          "move": 47,
+          "player": "black",
+          "move_gtp": "F2",
+          "move_internal": [
+            7,
+            5
+          ]
+        },
+        {
+          "move": 48,
+          "player": "white",
+          "move_gtp": "F1",
+          "move_internal": [
+            8,
+            5
+          ]
+        },
+        {
+          "move": 49,
+          "player": "black",
+          "move_gtp": "D6",
+          "move_internal": [
+            3,
+            3
+          ]
+        },
+        {
+          "move": 50,
+          "player": "white",
+          "move_gtp": "C6",
+          "move_internal": [
+            3,
+            2
+          ]
+        },
+        {
+          "move": 51,
+          "player": "black",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        },
+        {
+          "move": 52,
+          "player": "white",
+          "move_gtp": "A6",
+          "move_internal": [
+            3,
+            0
+          ]
+        },
+        {
+          "move": 53,
+          "player": "black",
+          "move_gtp": "F3",
+          "move_internal": [
+            6,
+            5
+          ]
+        },
+        {
+          "move": 54,
+          "player": "white",
+          "move_gtp": "E3",
+          "move_internal": [
+            6,
+            4
+          ]
+        },
+        {
+          "move": 55,
+          "player": "black",
+          "move_gtp": "J5",
+          "move_internal": [
+            4,
+            8
+          ]
+        },
+        {
+          "move": 56,
+          "player": "white",
+          "move_gtp": "H5",
+          "move_internal": [
+            4,
+            7
+          ]
+        },
+        {
+          "move": 57,
+          "player": "black",
+          "move_gtp": "A4",
+          "move_internal": [
+            5,
+            0
+          ]
+        },
+        {
+          "move": 58,
+          "player": "white",
+          "move_gtp": "A7",
+          "move_internal": [
+            2,
+            0
+          ]
+        },
+        {
+          "move": 59,
+          "player": "black",
+          "move_gtp": "J7",
+          "move_internal": [
+            2,
+            8
+          ]
+        },
+        {
+          "move": 60,
+          "player": "white",
+          "move_gtp": "B3",
+          "move_internal": [
+            6,
+            1
+          ]
+        },
+        {
+          "move": 61,
+          "player": "black",
+          "move_gtp": "B9",
+          "move_internal": [
+            0,
+            1
+          ]
+        },
+        {
+          "move": 62,
+          "player": "white",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 63,
+          "player": "black",
+          "move_gtp": "B1",
+          "move_internal": [
+            8,
+            1
+          ]
+        },
+        {
+          "move": 64,
+          "player": "white",
+          "move_gtp": "J8",
+          "move_internal": [
+            1,
+            8
+          ]
+        },
+        {
+          "move": 65,
+          "player": "black",
+          "move_gtp": "F4",
+          "move_internal": [
+            5,
+            5
+          ]
+        },
+        {
+          "move": 66,
+          "player": "white",
+          "move_gtp": "E6",
+          "move_internal": [
+            3,
+            4
+          ]
+        },
+        {
+          "move": 67,
+          "player": "black",
+          "move_gtp": "J9",
+          "move_internal": [
+            0,
+            8
+          ]
+        },
+        {
+          "move": 68,
+          "player": "white",
+          "move_gtp": "F1",
+          "move_internal": [
+            8,
+            5
+          ]
+        },
+        {
+          "move": 69,
+          "player": "black",
+          "move_gtp": "G9",
+          "move_internal": [
+            0,
+            6
+          ]
+        },
+        {
+          "move": 70,
+          "player": "white",
+          "move_gtp": "J4",
+          "move_internal": [
+            5,
+            8
+          ]
+        },
+        {
+          "move": 71,
+          "player": "black",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        },
+        {
+          "move": 72,
+          "player": "white",
+          "move_gtp": "F5",
+          "move_internal": [
+            4,
+            5
+          ]
+        },
+        {
+          "move": 73,
+          "player": "black",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 74,
+          "player": "white",
+          "move_gtp": "J6",
+          "move_internal": [
+            3,
+            8
+          ]
+        },
+        {
+          "move": 75,
+          "player": "black",
+          "move_gtp": "C5",
+          "move_internal": [
+            4,
+            2
+          ]
+        },
+        {
+          "move": 76,
+          "player": "white",
+          "move_gtp": "J2",
+          "move_internal": [
+            7,
+            8
+          ]
+        },
+        {
+          "move": 77,
+          "player": "black",
+          "move_gtp": "H1",
+          "move_internal": [
+            8,
+            7
+          ]
+        },
+        {
+          "move": 78,
+          "player": "white",
+          "move_gtp": "F1",
+          "move_internal": [
+            8,
+            5
+          ]
+        },
+        {
+          "move": 79,
+          "player": "black",
+          "move_gtp": "J3",
+          "move_internal": [
+            6,
+            8
+          ]
+        },
+        {
+          "move": 80,
+          "player": "white",
+          "move_gtp": "J8",
+          "move_internal": [
+            1,
+            8
+          ]
+        },
+        {
+          "move": 81,
+          "player": "black",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "game_number": 1,
+      "winner": "black",
+      "moves": 81,
+      "duration": 65.8594925403595,
+      "our_color": "white",
+      "final_score": 74.5,
+      "history": [
+        {
+          "move": 1,
+          "player": "black",
+          "move_gtp": "F6",
+          "move_internal": [
+            3,
+            5
+          ]
+        },
+        {
+          "move": 2,
+          "player": "white",
+          "move_gtp": "C9",
+          "move_internal": [
+            0,
+            2
+          ]
+        },
+        {
+          "move": 3,
+          "player": "black",
+          "move_gtp": "F4",
+          "move_internal": [
+            5,
+            5
+          ]
+        },
+        {
+          "move": 4,
+          "player": "white",
+          "move_gtp": "G1",
+          "move_internal": [
+            8,
+            6
+          ]
+        },
+        {
+          "move": 5,
+          "player": "black",
+          "move_gtp": "C6",
+          "move_internal": [
+            3,
+            2
+          ]
+        },
+        {
+          "move": 6,
+          "player": "white",
+          "move_gtp": "G3",
+          "move_internal": [
+            6,
+            6
+          ]
+        },
+        {
+          "move": 7,
+          "player": "black",
+          "move_gtp": "F3",
+          "move_internal": [
+            6,
+            5
+          ]
+        },
+        {
+          "move": 8,
+          "player": "white",
+          "move_gtp": "D8",
+          "move_internal": [
+            1,
+            3
+          ]
+        },
+        {
+          "move": 9,
+          "player": "black",
+          "move_gtp": "F2",
+          "move_internal": [
+            7,
+            5
+          ]
+        },
+        {
+          "move": 10,
+          "player": "white",
+          "move_gtp": "E5",
+          "move_internal": [
+            4,
+            4
+          ]
+        },
+        {
+          "move": 11,
+          "player": "black",
+          "move_gtp": "E6",
+          "move_internal": [
+            3,
+            4
+          ]
+        },
+        {
+          "move": 12,
+          "player": "white",
+          "move_gtp": "B5",
+          "move_internal": [
+            4,
+            1
+          ]
+        },
+        {
+          "move": 13,
+          "player": "black",
+          "move_gtp": "B6",
+          "move_internal": [
+            3,
+            1
+          ]
+        },
+        {
+          "move": 14,
+          "player": "white",
+          "move_gtp": "A2",
+          "move_internal": [
+            7,
+            0
+          ]
+        },
+        {
+          "move": 15,
+          "player": "black",
+          "move_gtp": "G7",
+          "move_internal": [
+            2,
+            6
+          ]
+        },
+        {
+          "move": 16,
+          "player": "white",
+          "move_gtp": "D5",
+          "move_internal": [
+            4,
+            3
+          ]
+        },
+        {
+          "move": 17,
+          "player": "black",
+          "move_gtp": "D6",
+          "move_internal": [
+            3,
+            3
+          ]
+        },
+        {
+          "move": 18,
+          "player": "white",
+          "move_gtp": "A8",
+          "move_internal": [
+            1,
+            0
+          ]
+        },
+        {
+          "move": 19,
+          "player": "black",
+          "move_gtp": "C2",
+          "move_internal": [
+            7,
+            2
+          ]
+        },
+        {
+          "move": 20,
+          "player": "white",
+          "move_gtp": "H7",
+          "move_internal": [
+            2,
+            7
+          ]
+        },
+        {
+          "move": 21,
+          "player": "black",
+          "move_gtp": "F8",
+          "move_internal": [
+            1,
+            5
+          ]
+        },
+        {
+          "move": 22,
+          "player": "white",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        },
+        {
+          "move": 23,
+          "player": "black",
+          "move_gtp": "G2",
+          "move_internal": [
+            7,
+            6
+          ]
+        },
+        {
+          "move": 24,
+          "player": "white",
+          "move_gtp": "H3",
+          "move_internal": [
+            6,
+            7
+          ]
+        },
+        {
+          "move": 25,
+          "player": "black",
+          "move_gtp": "G4",
+          "move_internal": [
+            5,
+            6
+          ]
+        },
+        {
+          "move": 26,
+          "player": "white",
+          "move_gtp": "D3",
+          "move_internal": [
+            6,
+            3
+          ]
+        },
+        {
+          "move": 27,
+          "player": "black",
+          "move_gtp": "D2",
+          "move_internal": [
+            7,
+            3
+          ]
+        },
+        {
+          "move": 28,
+          "player": "white",
+          "move_gtp": "H8",
+          "move_internal": [
+            1,
+            7
+          ]
+        },
+        {
+          "move": 29,
+          "player": "black",
+          "move_gtp": "E8",
+          "move_internal": [
+            1,
+            4
+          ]
+        },
+        {
+          "move": 30,
+          "player": "white",
+          "move_gtp": "B8",
+          "move_internal": [
+            1,
+            1
+          ]
+        },
+        {
+          "move": 31,
+          "player": "black",
+          "move_gtp": "B7",
+          "move_internal": [
+            2,
+            1
+          ]
+        },
+        {
+          "move": 32,
+          "player": "white",
+          "move_gtp": "C4",
+          "move_internal": [
+            5,
+            2
+          ]
+        },
+        {
+          "move": 33,
+          "player": "black",
+          "move_gtp": "F1",
+          "move_internal": [
+            8,
+            5
+          ]
+        },
+        {
+          "move": 34,
+          "player": "white",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 35,
+          "player": "black",
+          "move_gtp": "H6",
+          "move_internal": [
+            3,
+            7
+          ]
+        },
+        {
+          "move": 36,
+          "player": "white",
+          "move_gtp": "B1",
+          "move_internal": [
+            8,
+            1
+          ]
+        },
+        {
+          "move": 37,
+          "player": "black",
+          "move_gtp": "B4",
+          "move_internal": [
+            5,
+            1
+          ]
+        },
+        {
+          "move": 38,
+          "player": "white",
+          "move_gtp": "J5",
+          "move_internal": [
+            4,
+            8
+          ]
+        },
+        {
+          "move": 39,
+          "player": "black",
+          "move_gtp": "C8",
+          "move_internal": [
+            1,
+            2
+          ]
+        },
+        {
+          "move": 40,
+          "player": "white",
+          "move_gtp": "C7",
+          "move_internal": [
+            2,
+            2
+          ]
+        },
+        {
+          "move": 41,
+          "player": "black",
+          "move_gtp": "D7",
+          "move_internal": [
+            2,
+            3
+          ]
+        },
+        {
+          "move": 42,
+          "player": "white",
+          "move_gtp": "G9",
+          "move_internal": [
+            0,
+            6
+          ]
+        },
+        {
+          "move": 43,
+          "player": "black",
+          "move_gtp": "C8",
+          "move_internal": [
+            1,
+            2
+          ]
+        },
+        {
+          "move": 44,
+          "player": "white",
+          "move_gtp": "J3",
+          "move_internal": [
+            6,
+            8
+          ]
+        },
+        {
+          "move": 45,
+          "player": "black",
+          "move_gtp": "H2",
+          "move_internal": [
+            7,
+            7
+          ]
+        },
+        {
+          "move": 46,
+          "player": "white",
+          "move_gtp": "J1",
+          "move_internal": [
+            8,
+            8
+          ]
+        },
+        {
+          "move": 47,
+          "player": "black",
+          "move_gtp": "D9",
+          "move_internal": [
+            0,
+            3
+          ]
+        },
+        {
+          "move": 48,
+          "player": "white",
+          "move_gtp": "G5",
+          "move_internal": [
+            4,
+            6
+          ]
+        },
+        {
+          "move": 49,
+          "player": "black",
+          "move_gtp": "H5",
+          "move_internal": [
+            4,
+            7
+          ]
+        },
+        {
+          "move": 50,
+          "player": "white",
+          "move_gtp": "E4",
+          "move_internal": [
+            5,
+            4
+          ]
+        },
+        {
+          "move": 51,
+          "player": "black",
+          "move_gtp": "C5",
+          "move_internal": [
+            4,
+            2
+          ]
+        },
+        {
+          "move": 52,
+          "player": "white",
+          "move_gtp": "A4",
+          "move_internal": [
+            5,
+            0
+          ]
+        },
+        {
+          "move": 53,
+          "player": "black",
+          "move_gtp": "A5",
+          "move_internal": [
+            4,
+            0
+          ]
+        },
+        {
+          "move": 54,
+          "player": "white",
+          "move_gtp": "J8",
+          "move_internal": [
+            1,
+            8
+          ]
+        },
+        {
+          "move": 55,
+          "player": "black",
+          "move_gtp": "J2",
+          "move_internal": [
+            7,
+            8
+          ]
+        },
+        {
+          "move": 56,
+          "player": "white",
+          "move_gtp": "B3",
+          "move_internal": [
+            6,
+            1
+          ]
+        },
+        {
+          "move": 57,
+          "player": "black",
+          "move_gtp": "B2",
+          "move_internal": [
+            7,
+            1
+          ]
+        },
+        {
+          "move": 58,
+          "player": "white",
+          "move_gtp": "B5",
+          "move_internal": [
+            4,
+            1
+          ]
+        },
+        {
+          "move": 59,
+          "player": "black",
+          "move_gtp": "C3",
+          "move_internal": [
+            6,
+            2
+          ]
+        },
+        {
+          "move": 60,
+          "player": "white",
+          "move_gtp": "A6",
+          "move_internal": [
+            3,
+            0
+          ]
+        },
+        {
+          "move": 61,
+          "player": "black",
+          "move_gtp": "E3",
+          "move_internal": [
+            6,
+            4
+          ]
+        },
+        {
+          "move": 62,
+          "player": "white",
+          "move_gtp": "E9",
+          "move_internal": [
+            0,
+            4
+          ]
+        },
+        {
+          "move": 63,
+          "player": "black",
+          "move_gtp": "D4",
+          "move_internal": [
+            5,
+            3
+          ]
+        },
+        {
+          "move": 64,
+          "player": "white",
+          "move_gtp": "D8",
+          "move_internal": [
+            1,
+            3
+          ]
+        },
+        {
+          "move": 65,
+          "player": "black",
+          "move_gtp": "F9",
+          "move_internal": [
+            0,
+            5
+          ]
+        },
+        {
+          "move": 66,
+          "player": "white",
+          "move_gtp": "C7",
+          "move_internal": [
+            2,
+            2
+          ]
+        },
+        {
+          "move": 67,
+          "player": "black",
+          "move_gtp": "B4",
+          "move_internal": [
+            5,
+            1
+          ]
+        },
+        {
+          "move": 68,
+          "player": "white",
+          "move_gtp": "D9",
+          "move_internal": [
+            0,
+            3
+          ]
+        },
+        {
+          "move": 69,
+          "player": "black",
+          "move_gtp": "C8",
+          "move_internal": [
+            1,
+            2
+          ]
+        },
+        {
+          "move": 70,
+          "player": "white",
+          "move_gtp": "C4",
+          "move_internal": [
+            5,
+            2
+          ]
+        },
+        {
+          "move": 71,
+          "player": "black",
+          "move_gtp": "B9",
+          "move_internal": [
+            0,
+            1
+          ]
+        },
+        {
+          "move": 72,
+          "player": "white",
+          "move_gtp": "D9",
+          "move_internal": [
+            0,
+            3
+          ]
+        },
+        {
+          "move": 73,
+          "player": "black",
+          "move_gtp": "B4",
+          "move_internal": [
+            5,
+            1
+          ]
+        },
+        {
+          "move": 74,
+          "player": "white",
+          "move_gtp": "D8",
+          "move_internal": [
+            1,
+            3
+          ]
+        },
+        {
+          "move": 75,
+          "player": "black",
+          "move_gtp": "A7",
+          "move_internal": [
+            2,
+            0
+          ]
+        },
+        {
+          "move": 76,
+          "player": "white",
+          "move_gtp": "C4",
+          "move_internal": [
+            5,
+            2
+          ]
+        },
+        {
+          "move": 77,
+          "player": "black",
+          "move_gtp": "A5",
+          "move_internal": [
+            4,
+            0
+          ]
+        },
+        {
+          "move": 78,
+          "player": "white",
+          "move_gtp": "D3",
+          "move_internal": [
+            6,
+            3
+          ]
+        },
+        {
+          "move": 79,
+          "player": "black",
+          "move_gtp": "B4",
+          "move_internal": [
+            5,
+            1
+          ]
+        },
+        {
+          "move": 80,
+          "player": "white",
+          "move_gtp": "C9",
+          "move_internal": [
+            0,
+            2
+          ]
+        },
+        {
+          "move": 81,
+          "player": "black",
+          "move_gtp": "E9",
+          "move_internal": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "game_number": 2,
+      "winner": "white",
+      "moves": 81,
+      "duration": 65.95630288124084,
+      "our_color": "black",
+      "final_score": -88.5,
+      "history": [
+        {
+          "move": 1,
+          "player": "black",
+          "move_gtp": "C9",
+          "move_internal": [
+            0,
+            2
+          ]
+        },
+        {
+          "move": 2,
+          "player": "white",
+          "move_gtp": "F5",
+          "move_internal": [
+            4,
+            5
+          ]
+        },
+        {
+          "move": 3,
+          "player": "black",
+          "move_gtp": "G3",
+          "move_internal": [
+            6,
+            6
+          ]
+        },
+        {
+          "move": 4,
+          "player": "white",
+          "move_gtp": "E3",
+          "move_internal": [
+            6,
+            4
+          ]
+        },
+        {
+          "move": 5,
+          "player": "black",
+          "move_gtp": "G1",
+          "move_internal": [
+            8,
+            6
+          ]
+        },
+        {
+          "move": 6,
+          "player": "white",
+          "move_gtp": "H5",
+          "move_internal": [
+            4,
+            7
+          ]
+        },
+        {
+          "move": 7,
+          "player": "black",
+          "move_gtp": "E5",
+          "move_internal": [
+            4,
+            4
+          ]
+        },
+        {
+          "move": 8,
+          "player": "white",
+          "move_gtp": "F6",
+          "move_internal": [
+            3,
+            5
+          ]
+        },
+        {
+          "move": 9,
+          "player": "black",
+          "move_gtp": "D8",
+          "move_internal": [
+            1,
+            3
+          ]
+        },
+        {
+          "move": 10,
+          "player": "white",
+          "move_gtp": "C3",
+          "move_internal": [
+            6,
+            2
+          ]
+        },
+        {
+          "move": 11,
+          "player": "black",
+          "move_gtp": "B6",
+          "move_internal": [
+            3,
+            1
+          ]
+        },
+        {
+          "move": 12,
+          "player": "white",
+          "move_gtp": "F2",
+          "move_internal": [
+            7,
+            5
+          ]
+        },
+        {
+          "move": 13,
+          "player": "black",
+          "move_gtp": "D5",
+          "move_internal": [
+            4,
+            3
+          ]
+        },
+        {
+          "move": 14,
+          "player": "white",
+          "move_gtp": "F8",
+          "move_internal": [
+            1,
+            5
+          ]
+        },
+        {
+          "move": 15,
+          "player": "black",
+          "move_gtp": "D6",
+          "move_internal": [
+            3,
+            3
+          ]
+        },
+        {
+          "move": 16,
+          "player": "white",
+          "move_gtp": "B4",
+          "move_internal": [
+            5,
+            1
+          ]
+        },
+        {
+          "move": 17,
+          "player": "black",
+          "move_gtp": "A2",
+          "move_internal": [
+            7,
+            0
+          ]
+        },
+        {
+          "move": 18,
+          "player": "white",
+          "move_gtp": "B5",
+          "move_internal": [
+            4,
+            1
+          ]
+        },
+        {
+          "move": 19,
+          "player": "black",
+          "move_gtp": "A8",
+          "move_internal": [
+            1,
+            0
+          ]
+        },
+        {
+          "move": 20,
+          "player": "white",
+          "move_gtp": "E4",
+          "move_internal": [
+            5,
+            4
+          ]
+        },
+        {
+          "move": 21,
+          "player": "black",
+          "move_gtp": "E1",
+          "move_internal": [
+            8,
+            4
+          ]
+        },
+        {
+          "move": 22,
+          "player": "white",
+          "move_gtp": "E7",
+          "move_internal": [
+            2,
+            4
+          ]
+        },
+        {
+          "move": 23,
+          "player": "black",
+          "move_gtp": "C4",
+          "move_internal": [
+            5,
+            2
+          ]
+        },
+        {
+          "move": 24,
+          "player": "white",
+          "move_gtp": "D7",
+          "move_internal": [
+            2,
+            3
+          ]
+        },
+        {
+          "move": 25,
+          "player": "black",
+          "move_gtp": "H3",
+          "move_internal": [
+            6,
+            7
+          ]
+        },
+        {
+          "move": 26,
+          "player": "white",
+          "move_gtp": "C7",
+          "move_internal": [
+            2,
+            2
+          ]
+        },
+        {
+          "move": 27,
+          "player": "black",
+          "move_gtp": "H2",
+          "move_internal": [
+            7,
+            7
+          ]
+        },
+        {
+          "move": 28,
+          "player": "white",
+          "move_gtp": "D4",
+          "move_internal": [
+            5,
+            3
+          ]
+        },
+        {
+          "move": 29,
+          "player": "black",
+          "move_gtp": "H4",
+          "move_internal": [
+            5,
+            7
+          ]
+        },
+        {
+          "move": 30,
+          "player": "white",
+          "move_gtp": "A3",
+          "move_internal": [
+            6,
+            0
+          ]
+        },
+        {
+          "move": 31,
+          "player": "black",
+          "move_gtp": "J3",
+          "move_internal": [
+            6,
+            8
+          ]
+        },
+        {
+          "move": 32,
+          "player": "white",
+          "move_gtp": "B8",
+          "move_internal": [
+            1,
+            1
+          ]
+        },
+        {
+          "move": 33,
+          "player": "black",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 34,
+          "player": "white",
+          "move_gtp": "G9",
+          "move_internal": [
+            0,
+            6
+          ]
+        },
+        {
+          "move": 35,
+          "player": "black",
+          "move_gtp": "H7",
+          "move_internal": [
+            2,
+            7
+          ]
+        },
+        {
+          "move": 36,
+          "player": "white",
+          "move_gtp": "H8",
+          "move_internal": [
+            1,
+            7
+          ]
+        },
+        {
+          "move": 37,
+          "player": "black",
+          "move_gtp": "J8",
+          "move_internal": [
+            1,
+            8
+          ]
+        },
+        {
+          "move": 38,
+          "player": "white",
+          "move_gtp": "G8",
+          "move_internal": [
+            1,
+            6
+          ]
+        },
+        {
+          "move": 39,
+          "player": "black",
+          "move_gtp": "E9",
+          "move_internal": [
+            0,
+            4
+          ]
+        },
+        {
+          "move": 40,
+          "player": "white",
+          "move_gtp": "J9",
+          "move_internal": [
+            0,
+            8
+          ]
+        },
+        {
+          "move": 41,
+          "player": "black",
+          "move_gtp": "J1",
+          "move_internal": [
+            8,
+            8
+          ]
+        },
+        {
+          "move": 42,
+          "player": "white",
+          "move_gtp": "G2",
+          "move_internal": [
+            7,
+            6
+          ]
+        },
+        {
+          "move": 43,
+          "player": "black",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 44,
+          "player": "white",
+          "move_gtp": "B7",
+          "move_internal": [
+            2,
+            1
+          ]
+        },
+        {
+          "move": 45,
+          "player": "black",
+          "move_gtp": "G7",
+          "move_internal": [
+            2,
+            6
+          ]
+        },
+        {
+          "move": 46,
+          "player": "white",
+          "move_gtp": "J7",
+          "move_internal": [
+            2,
+            8
+          ]
+        },
+        {
+          "move": 47,
+          "player": "black",
+          "move_gtp": "J6",
+          "move_internal": [
+            3,
+            8
+          ]
+        },
+        {
+          "move": 48,
+          "player": "white",
+          "move_gtp": "J5",
+          "move_internal": [
+            4,
+            8
+          ]
+        },
+        {
+          "move": 49,
+          "player": "black",
+          "move_gtp": "C1",
+          "move_internal": [
+            8,
+            2
+          ]
+        },
+        {
+          "move": 50,
+          "player": "white",
+          "move_gtp": "C2",
+          "move_internal": [
+            7,
+            2
+          ]
+        },
+        {
+          "move": 51,
+          "player": "black",
+          "move_gtp": "D2",
+          "move_internal": [
+            7,
+            3
+          ]
+        },
+        {
+          "move": 52,
+          "player": "white",
+          "move_gtp": "B2",
+          "move_internal": [
+            7,
+            1
+          ]
+        },
+        {
+          "move": 53,
+          "player": "black",
+          "move_gtp": "A5",
+          "move_internal": [
+            4,
+            0
+          ]
+        },
+        {
+          "move": 54,
+          "player": "white",
+          "move_gtp": "A4",
+          "move_internal": [
+            5,
+            0
+          ]
+        },
+        {
+          "move": 55,
+          "player": "black",
+          "move_gtp": "G4",
+          "move_internal": [
+            5,
+            6
+          ]
+        },
+        {
+          "move": 56,
+          "player": "white",
+          "move_gtp": "G5",
+          "move_internal": [
+            4,
+            6
+          ]
+        },
+        {
+          "move": 57,
+          "player": "black",
+          "move_gtp": "A1",
+          "move_internal": [
+            8,
+            0
+          ]
+        },
+        {
+          "move": 58,
+          "player": "white",
+          "move_gtp": "B1",
+          "move_internal": [
+            8,
+            1
+          ]
+        },
+        {
+          "move": 59,
+          "player": "black",
+          "move_gtp": "A9",
+          "move_internal": [
+            0,
+            0
+          ]
+        },
+        {
+          "move": 60,
+          "player": "white",
+          "move_gtp": "E2",
+          "move_internal": [
+            7,
+            4
+          ]
+        },
+        {
+          "move": 61,
+          "player": "black",
+          "move_gtp": "A1",
+          "move_internal": [
+            8,
+            0
+          ]
+        },
+        {
+          "move": 62,
+          "player": "white",
+          "move_gtp": "J9",
+          "move_internal": [
+            0,
+            8
+          ]
+        },
+        {
+          "move": 63,
+          "player": "black",
+          "move_gtp": "D9",
+          "move_internal": [
+            0,
+            3
+          ]
+        },
+        {
+          "move": 64,
+          "player": "white",
+          "move_gtp": "F1",
+          "move_internal": [
+            8,
+            5
+          ]
+        },
+        {
+          "move": 65,
+          "player": "black",
+          "move_gtp": "H9",
+          "move_internal": [
+            0,
+            7
+          ]
+        },
+        {
+          "move": 66,
+          "player": "white",
+          "move_gtp": "F7",
+          "move_internal": [
+            2,
+            5
+          ]
+        },
+        {
+          "move": 67,
+          "player": "black",
+          "move_gtp": "F3",
+          "move_internal": [
+            6,
+            5
+          ]
+        },
+        {
+          "move": 68,
+          "player": "white",
+          "move_gtp": "F4",
+          "move_internal": [
+            5,
+            5
+          ]
+        },
+        {
+          "move": 69,
+          "player": "black",
+          "move_gtp": "D3",
+          "move_internal": [
+            6,
+            3
+          ]
+        },
+        {
+          "move": 70,
+          "player": "white",
+          "move_gtp": "H1",
+          "move_internal": [
+            8,
+            7
+          ]
+        },
+        {
+          "move": 71,
+          "player": "black",
+          "move_gtp": "E6",
+          "move_internal": [
+            3,
+            4
+          ]
+        },
+        {
+          "move": 72,
+          "player": "white",
+          "move_gtp": "C5",
+          "move_internal": [
+            4,
+            2
+          ]
+        },
+        {
+          "move": 73,
+          "player": "black",
+          "move_gtp": "G1",
+          "move_internal": [
+            8,
+            6
+          ]
+        },
+        {
+          "move": 74,
+          "player": "white",
+          "move_gtp": "D1",
+          "move_internal": [
+            8,
+            3
+          ]
+        },
+        {
+          "move": 75,
+          "player": "black",
+          "move_gtp": "D2",
+          "move_internal": [
+            7,
+            3
+          ]
+        },
+        {
+          "move": 76,
+          "player": "white",
+          "move_gtp": "H1",
+          "move_internal": [
+            8,
+            7
+          ]
+        },
+        {
+          "move": 77,
+          "player": "black",
+          "move_gtp": "E8",
+          "move_internal": [
+            1,
+            4
+          ]
+        },
+        {
+          "move": 78,
+          "player": "white",
+          "move_gtp": "C6",
+          "move_internal": [
+            3,
+            2
+          ]
+        },
+        {
+          "move": 79,
+          "player": "black",
+          "move_gtp": "G1",
+          "move_internal": [
+            8,
+            6
+          ]
+        },
+        {
+          "move": 80,
+          "player": "white",
+          "move_gtp": "H6",
+          "move_internal": [
+            3,
+            7
+          ]
+        },
+        {
+          "move": 81,
+          "player": "black",
+          "move_gtp": "E5",
+          "move_internal": [
+            4,
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}
